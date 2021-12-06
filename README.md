@@ -1,17 +1,17 @@
 # Loan-Delinquincy
 Case Study: Loan Delinquent Analysis
 
-Context: 
+# Context: 
 A bank is facing challenging times. Their NPAs (Non-Performing Assets) have been on a rise recently and a large part of these are due to the loans given to individual customers(borrowers). The Chief Risk Officer of the bank decides to put in a scientifically robust framework for approval of loans to individual customers to minimize the risk of loans converting into NPAs and initiates a project for the data science team at the bank. You, as a senior member of the team, are assigned this project.
  
 
-Problem:
+# Problem:
 The data-set aims to answer the following key questions:
 
 To identify the criteria to approve loans for an individual customer such that the likelihood of the loan delinquency is minimized?
 What are the factors that drive the behavior of loan delinquency?
 
-Attribute Information:
+# Attribute Information:
 The data contains characteristics of the people
 
 ID: Customer ID
@@ -31,13 +31,13 @@ home_ownership: Status of borrower's home
 FICO: FICO (i.e. the bureau score) of the borrower
 
 
-Learning Outcomes:
+# Learning Outcomes:
 Exploratory Data Analysis
 Preparing the data to train a model
 Training and understanding of data using a decision tree model
 Model evaluation
  
-Steps and Tasks:
+# Steps and Tasks:
 Import Libraries and Load Dataset
 Overview of data
 Data Visualization
